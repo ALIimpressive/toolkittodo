@@ -1,0 +1,28 @@
+#header {
+  background-color: white;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.hed-img {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1pc;
+}
+
+.hed-text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 3pc;
+}
+
+.hed-text h2 {
+  font-weight: 100;
+}
